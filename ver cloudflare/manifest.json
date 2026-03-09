@@ -1,0 +1,42 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "CloudFlare Mod By @tranthanh1202",
+  "version": "2.0.1",
+  "author": "Akmal Abar",
+  "description": "AE VÀO NHÓM VIP TESTNET LH: @tranthanh1202",
+  "action": {
+    "default_icon": {
+      "128": "logo.png",
+      "16": "logo.png",
+      "48": "logo.png"
+    }
+  },
+  "icons": {
+    "128": "logo.png",
+    "16": "logo.png",
+    "48": "logo.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://challenges.cloudflare.com/*"],
+      "run_at": "document_start",
+      "all_frames": true,
+      "js": ["script.js"]
+    },
+    {
+      "matches": ["*://challenges.cloudflare.com/*"],
+      "run_at": "document_start",
+      "all_frames": true,
+      "js": ["background.js"],
+      "world": "MAIN"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["background.js"],
+      "matches": ["https://challenges.cloudflare.com/*"]
+    }
+  ]
+}

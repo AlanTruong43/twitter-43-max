@@ -1,0 +1,90 @@
+[2026-03-09 14:49:04] PierreWats26898: Không lấy được debug port: {'created_at': '2026-02-04T05:08:34.473623+00:00', 'started_at': '2026-03-09T07:49:03.950Z', 'id': 25611661, 'index': 1, 'name': 'FB_073', 'port': '58106', 'proxyPid': None, 'pid': 10912, 'wsEndpoint': 'ws://127.0.0.1:58106/devtools/browser/c0442ab6-849d-4fdc-93a6-bfa6b7ccd16e', 'filename': '25611661-1770366820854986.zip', 'remotePortUrl': 'http://127.0.0.1:58106/json/version', '__x__': None, 'browser_version': '143'}
+[2026-03-09 14:51:19] PierreWats26898: Message: session not created: cannot connect to chrome at 127.0.0.1:58106
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff75a15aa55
+	0x7ff759eb8630
+	0x7ff759c4d546
+	0x7ff759c3dd8a
+	0x7ff759c9450b
+	0x7ff759c88cee
+	0x7ff759cdfc51
+	0x7ff759cdf4b6
+	0x7ff759c99098
+	0x7ff759c99f83
+	0x7ff75a187810
+	0x7ff75a181afd
+	0x7ff75a1a2c1a
+	0x7ff759ed3345
+	0x7ff759edb81c
+	0x7ff759ec1924
+	0x7ff759ec1ad6
+	0x7ff759ea7e47
+	0x7ffe5bde259d
+	0x7ffe5d24af78
+
+[2026-03-09 14:57:09] PierreWats26898: Login thất bại
+[2026-03-09 15:00:09] PierreWats26898: name 'time' is not defined
+[2026-03-09 15:02:25] PierreWats26898: Login thất bại
+[2026-03-09 15:53:35] PierreWats26898: Login thất bại - dừng tài khoản
+[2026-03-09 15:58:59] PierreWats26898: Message: session not created: cannot connect to chrome at 127.0.0.1:53064
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x901213
+	0x901254
+	0x6ee52b
+	0x6e1e56
+	0x7297b3
+	0x71fbe5
+	0x71fa16
+	0x767826
+	0x767047
+	0x75b2e6
+	0x72d321
+	0x72e1d4
+	0xb55254
+	0xb5080b
+	0xb6d0ea
+	0x91b118
+	0x92311d
+	0x909518
+	0x9096d9
+	0x8f3a68
+	0x771c7ba9
+	0x7766c3ab
+	0x7766c32f
+
+[2026-03-09 16:00:55] PierreWats26898: Message: session not created: cannot connect to chrome at 127.0.0.1:52706
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 143.0.7499.192; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x557dd3
+	0x557e14
+	0x361db0
+	0x39d462
+	0x39c49c
+	0x392555
+	0x392376
+	0x3daa9f
+	0x3da2b7
+	0x3ce7d6
+	0x3a0049
+	0x3a0e04
+	0x7b6924
+	0x7b1bf7
+	0x7cf5a0
+	0x570f58
+	0x57891d
+	0x560648
+	0x560812
+	0x54a21a
+	0x771c7ba9
+	0x7766c3ab
+	0x7766c32f
+
+[2026-03-09 16:02:52] PierreWats26898: Login thất bại - dừng tài khoản
+[2026-03-09 16:05:02] PierreWats26898: Login thất bại - dừng tài khoản
+[2026-03-09 16:07:17] PierreWats26898: Login thất bại - dừng tài khoản

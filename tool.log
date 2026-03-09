@@ -1,0 +1,315 @@
+2026-03-09 15:47:49,332 [INFO] main – ============================================================
+2026-03-09 15:47:49,332 [INFO] main –   TWITTER 43MAX TOOL – KHỞI ĐỘNG
+2026-03-09 15:47:49,333 [INFO] main – ============================================================
+2026-03-09 15:47:49,848 [INFO] genlogin_api – GenLogin login OK
+2026-03-09 15:47:50,074 [INFO] genlogin_api – Group 'twitter' id=103334
+2026-03-09 15:47:50,461 [INFO] main – Tổng số profile: 200
+2026-03-09 15:47:50,462 [INFO] main – Tổng số account hợp lệ: 1
+2026-03-09 15:47:50,462 [WARNING] main – [PierreWats26898] Không tìm thấy profile GenLogin nào khớp tên 'PierreWats26898'
+2026-03-09 15:47:50,462 [WARNING] main – Không tìm thấy account nào match với profile!
+2026-03-09 15:47:50,462 [WARNING] main – Vài account (1) không có profile tương ứng!
+2026-03-09 15:47:50,462 [ERROR] main – Không có account nào ghép được với profile!
+2026-03-09 15:52:59,729 [INFO] main – ============================================================
+2026-03-09 15:52:59,729 [INFO] main –   TWITTER 43MAX TOOL – KHỞI ĐỘNG
+2026-03-09 15:52:59,729 [INFO] main – ============================================================
+2026-03-09 15:53:00,284 [INFO] genlogin_api – GenLogin login OK
+2026-03-09 15:53:00,533 [INFO] genlogin_api – Group 'twitter' id=103334
+2026-03-09 15:53:03,613 [INFO] main – Tổng số profile: 1352
+2026-03-09 15:53:03,613 [INFO] main – Tổng số account hợp lệ: 1
+2026-03-09 15:53:03,613 [INFO] main – Chạy 1 account với 5 luồng đồng thời
+2026-03-09 15:53:03,615 [INFO] main – [PierreWats26898] Bắt đầu – Profile: PierreWats26898 - Lần lặp 1/5
+2026-03-09 15:53:04,875 [INFO] main – [PierreWats26898] Profile PierreWats26898 – port 53064
+2026-03-09 15:53:09,875 [INFO] WDM – ====== WebDriver manager ======
+2026-03-09 15:53:12,403 [INFO] WDM – Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\143\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 15:53:12,404 [INFO] main – ChromeDriver path: C:\Users\admin\.wdm\drivers\chromedriver\win64\143\chromedriver-win32/chromedriver.exe
+2026-03-09 15:53:12,959 [INFO] login – [PierreWats26898] Thử load cookie file...
+2026-03-09 15:53:12,960 [INFO] login – [PierreWats26898] Thử inject cookie chuỗi...
+2026-03-09 15:53:24,936 [INFO] session – Inject cookie chuỗi bằng JS xong
+2026-03-09 15:53:35,539 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: die_cookie
+2026-03-09 15:53:35,539 [ERROR] login – [PierreWats26898] Đăng nhập thất bại: Cookie đã chết hoặc không hợp lệ
+2026-03-09 15:53:35,539 [ERROR] main – [PierreWats26898] LỖI: Login thất bại - dừng tài khoản
+2026-03-09 15:53:35,545 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: Login thất bại - dừng tài khoản
+2026-03-09 15:53:35,545 [WARNING] main – [PierreWats26898] Account báo lỗi, ngừng vòng lặp!
+2026-03-09 15:53:52,601 [WARNING] genlogin_api – Stop profile 25710372 lỗi: HTTPConnectionPool(host='127.0.0.1', port=55550): Read timed out. (read timeout=15)
+2026-03-09 15:53:52,602 [INFO] main – [PierreWats26898] Đã đóng profile PierreWats26898
+2026-03-09 15:53:52,603 [INFO] main – ============================================================
+2026-03-09 15:53:52,603 [INFO] main –   HOÀN TẤT
+2026-03-09 15:53:52,604 [INFO] main – ============================================================
+2026-03-09 15:57:44,485 [INFO] main – ============================================================
+2026-03-09 15:57:44,485 [INFO] main –   TWITTER 43MAX TOOL – KHỞI ĐỘNG
+2026-03-09 15:57:44,485 [INFO] main – ============================================================
+2026-03-09 15:57:44,964 [INFO] genlogin_api – GenLogin login OK
+2026-03-09 15:57:45,166 [INFO] genlogin_api – Group 'twitter' id=103334
+2026-03-09 15:57:48,173 [INFO] main – Tổng số profile: 1352
+2026-03-09 15:57:48,173 [INFO] main – Tổng số account hợp lệ: 1
+2026-03-09 15:57:48,174 [INFO] main – Chạy 1 account với 5 luồng đồng thời
+2026-03-09 15:57:48,174 [INFO] main – [PierreWats26898] Bắt đầu – Profile: PierreWats26898 - Lần lặp 1/5
+2026-03-09 15:57:48,177 [INFO] main – [PierreWats26898] Profile PierreWats26898 – port 53064
+2026-03-09 15:57:53,177 [INFO] WDM – ====== WebDriver manager ======
+2026-03-09 15:57:55,531 [INFO] WDM – Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\143\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 15:57:55,531 [INFO] main – ChromeDriver path: C:\Users\admin\.wdm\drivers\chromedriver\win64\143\chromedriver-win32/chromedriver.exe
+2026-03-09 15:58:59,193 [ERROR] main – [PierreWats26898] LỖI: Message: session not created: cannot connect to chrome at 127.0.0.1:53064
+from chrome not reachable; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x901213
+	0x901254
+	0x6ee52b
+	0x6e1e56
+	0x7297b3
+	0x71fbe5
+	0x71fa16
+	0x767826
+	0x767047
+	0x75b2e6
+	0x72d321
+	0x72e1d4
+	0xb55254
+	0xb5080b
+	0xb6d0ea
+	0x91b118
+	0x92311d
+	0x909518
+	0x9096d9
+	0x8f3a68
+	0x771c7ba9
+	0x7766c3ab
+	0x7766c32f
+
+2026-03-09 15:58:59,195 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: Message: session not created: cannot connect to chrome at 127.0.0.1:53064
+from chrome not reachable;
+2026-03-09 15:58:59,195 [WARNING] main – [PierreWats26898] Account báo lỗi, ngừng vòng lặp!
+2026-03-09 15:58:59,929 [INFO] main – [PierreWats26898] Đã đóng profile PierreWats26898
+2026-03-09 15:58:59,929 [INFO] main – ============================================================
+2026-03-09 15:58:59,930 [INFO] main –   HOÀN TẤT
+2026-03-09 15:58:59,930 [INFO] main – ============================================================
+2026-03-09 15:59:45,976 [INFO] main – ============================================================
+2026-03-09 15:59:45,976 [INFO] main –   TWITTER 43MAX TOOL – KHỞI ĐỘNG
+2026-03-09 15:59:45,976 [INFO] main – ============================================================
+2026-03-09 15:59:46,537 [INFO] genlogin_api – GenLogin login OK
+2026-03-09 15:59:46,734 [INFO] genlogin_api – Group 'twitter' id=103334
+2026-03-09 15:59:49,575 [INFO] main – Tổng số profile: 1352
+2026-03-09 15:59:49,575 [INFO] main – [PierreWats26898] Đã có lỗi trước → bỏ qua
+2026-03-09 15:59:49,576 [ERROR] main – Không có account hợp lệ!
+2026-03-09 16:00:35,801 [INFO] main – ============================================================
+2026-03-09 16:00:35,801 [INFO] main –   TWITTER 43MAX TOOL – KHỞI ĐỘNG
+2026-03-09 16:00:35,802 [INFO] main – ============================================================
+2026-03-09 16:00:36,317 [INFO] genlogin_api – GenLogin login OK
+2026-03-09 16:00:36,522 [INFO] genlogin_api – Group 'twitter' id=103334
+2026-03-09 16:00:40,040 [INFO] main – Tổng số profile: 1352
+2026-03-09 16:00:40,041 [INFO] main – Tổng số account hợp lệ: 1
+2026-03-09 16:00:40,041 [INFO] main – Chạy 1 account với 5 luồng đồng thời
+2026-03-09 16:00:40,042 [INFO] main – [PierreWats26898] Bắt đầu – Profile: PierreWats26898 - Lần lặp 1/5
+2026-03-09 16:00:42,233 [INFO] main – [PierreWats26898] Profile PierreWats26898 – port 52706
+2026-03-09 16:00:47,233 [INFO] WDM – ====== WebDriver manager ======
+2026-03-09 16:00:49,669 [INFO] WDM – Get LATEST chromedriver version for google-chrome
+2026-03-09 16:00:50,023 [INFO] WDM – Get LATEST chromedriver version for google-chrome
+2026-03-09 16:00:50,347 [INFO] WDM – There is no [win64] chromedriver "145.0.7632.117" for browser google-chrome "145.0.7632" in cache
+2026-03-09 16:00:50,348 [INFO] WDM – Get LATEST chromedriver version for google-chrome
+2026-03-09 16:00:51,128 [INFO] WDM – WebDriver version 145.0.7632.117 selected
+2026-03-09 16:00:51,133 [INFO] WDM – Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 16:00:51,133 [INFO] WDM – About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-09 16:00:51,467 [INFO] WDM – Driver downloading response is 200
+2026-03-09 16:00:52,000 [INFO] WDM – Get LATEST chromedriver version for google-chrome
+2026-03-09 16:00:52,490 [INFO] WDM – Driver has been saved in cache [C:\Users\admin\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-09 16:00:52,494 [INFO] main – ChromeDriver path: C:\Users\admin\.wdm\drivers\chromedriver\win64\145.0.7632.117\chromedriver-win32/chromedriver.exe
+2026-03-09 16:00:55,803 [ERROR] main – [PierreWats26898] LỖI: Message: session not created: cannot connect to chrome at 127.0.0.1:52706
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 143.0.7499.192; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x557dd3
+	0x557e14
+	0x361db0
+	0x39d462
+	0x39c49c
+	0x392555
+	0x392376
+	0x3daa9f
+	0x3da2b7
+	0x3ce7d6
+	0x3a0049
+	0x3a0e04
+	0x7b6924
+	0x7b1bf7
+	0x7cf5a0
+	0x570f58
+	0x57891d
+	0x560648
+	0x560812
+	0x54a21a
+	0x771c7ba9
+	0x7766c3ab
+	0x7766c32f
+
+2026-03-09 16:00:55,805 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: Message: session not created: cannot connect to chrome at 127.0.0.1:52706
+from session not created: 
+2026-03-09 16:00:55,806 [WARNING] main – [PierreWats26898] Account báo lỗi, ngừng vòng lặp!
+2026-03-09 16:00:56,571 [INFO] main – [PierreWats26898] Đã đóng profile PierreWats26898
+2026-03-09 16:00:56,572 [INFO] main – ============================================================
+2026-03-09 16:00:56,572 [INFO] main –   HOÀN TẤT
+2026-03-09 16:00:56,572 [INFO] main – ============================================================
+2026-03-09 16:02:09,607 [INFO] main – ============================================================
+2026-03-09 16:02:09,608 [INFO] main –   TWITTER 43MAX TOOL – KHỞI ĐỘNG
+2026-03-09 16:02:09,608 [INFO] main – ============================================================
+2026-03-09 16:02:10,150 [INFO] genlogin_api – GenLogin login OK
+2026-03-09 16:02:10,390 [INFO] genlogin_api – Group 'twitter' id=103334
+2026-03-09 16:02:12,851 [INFO] main – Tổng số profile: 1352
+2026-03-09 16:02:12,852 [INFO] main – Tổng số account hợp lệ: 1
+2026-03-09 16:02:12,852 [INFO] main – Chạy 1 account với 5 luồng đồng thời
+2026-03-09 16:02:12,852 [INFO] main – [PierreWats26898] Bắt đầu – Profile: PierreWats26898 - Lần lặp 1/5
+2026-03-09 16:02:14,861 [INFO] main – [PierreWats26898] Profile PierreWats26898 – port 61593
+2026-03-09 16:02:19,862 [INFO] WDM – ====== WebDriver manager ======
+2026-03-09 16:02:22,172 [INFO] WDM – There is no [win64] chromedriver "143.0.7499.71" for browser google-chrome "145.0.7632" in cache
+2026-03-09 16:02:22,586 [INFO] WDM – WebDriver version 143.0.7499.192 selected
+2026-03-09 16:02:22,591 [INFO] WDM – Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-03-09 16:02:22,591 [INFO] WDM – About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-03-09 16:02:22,918 [INFO] WDM – Driver downloading response is 200
+2026-03-09 16:02:23,765 [INFO] WDM – Driver has been saved in cache [C:\Users\admin\.wdm\drivers\chromedriver\win64\143.0.7499.71]
+2026-03-09 16:02:23,767 [INFO] main – ChromeDriver path: C:\Users\admin\.wdm\drivers\chromedriver\win64\143.0.7499.71\chromedriver-win32/chromedriver.exe
+2026-03-09 16:02:25,046 [INFO] login – [PierreWats26898] Thử load cookie file...
+2026-03-09 16:02:25,046 [INFO] login – [PierreWats26898] Thử inject cookie chuỗi...
+2026-03-09 16:02:31,692 [INFO] session – Đã inject JS Cookie, đang reload /home...
+2026-03-09 16:02:41,695 [INFO] session – URL sau khi inject: https://x.com/home | Title: Home / X
+2026-03-09 16:02:41,698 [INFO] session – is_logged_in checking URL: https://x.com/home
+2026-03-09 16:02:52,300 [WARNING] session – is_logged_in không tìm thấy Feed Navigation: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1031213
+	0x1031254
+	0xe1e6dd
+	0xe693a5
+	0xe6977b
+	0xeb0382
+	0xe8b534
+	0xeadb13
+	0xe8b2e6
+	0xe5d321
+	0xe5e1d4
+	0x1285254
+	0x128080b
+	0x129d0ea
+	0x104b118
+	0x105311d
+	0x1039518
+	0x10396d9
+	0x1023a68
+	0x771c7ba9
+	0x7766c3ab
+	0x7766c32f
+
+2026-03-09 16:02:52,301 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: die_cookie
+2026-03-09 16:02:52,301 [ERROR] login – [PierreWats26898] Đăng nhập thất bại: Cookie đã chết hoặc không hợp lệ
+2026-03-09 16:02:52,301 [ERROR] main – [PierreWats26898] LỖI: Login thất bại - dừng tài khoản
+2026-03-09 16:02:52,303 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: Login thất bại - dừng tài khoản
+2026-03-09 16:02:52,303 [WARNING] main – [PierreWats26898] Account báo lỗi, ngừng vòng lặp!
+2026-03-09 16:02:55,252 [INFO] main – [PierreWats26898] Đã đóng profile PierreWats26898
+2026-03-09 16:02:55,252 [INFO] main – ============================================================
+2026-03-09 16:02:55,253 [INFO] main –   HOÀN TẤT
+2026-03-09 16:02:55,253 [INFO] main – ============================================================
+2026-03-09 16:04:18,488 [INFO] main – ============================================================
+2026-03-09 16:04:18,489 [INFO] main –   TWITTER 43MAX TOOL – KHỞI ĐỘNG
+2026-03-09 16:04:18,489 [INFO] main – ============================================================
+2026-03-09 16:04:19,012 [INFO] genlogin_api – GenLogin login OK
+2026-03-09 16:04:19,274 [INFO] genlogin_api – Group 'twitter' id=103334
+2026-03-09 16:04:21,965 [INFO] main – Tổng số profile: 1352
+2026-03-09 16:04:21,966 [INFO] main – Tổng số account hợp lệ: 1
+2026-03-09 16:04:21,966 [INFO] main – Chạy 1 account với 5 luồng đồng thời
+2026-03-09 16:04:21,967 [INFO] main – [PierreWats26898] Bắt đầu – Profile: PierreWats26898 - Lần lặp 1/5
+2026-03-09 16:04:23,950 [INFO] main – [PierreWats26898] Profile PierreWats26898 – port 58383
+2026-03-09 16:04:28,951 [INFO] WDM – ====== WebDriver manager ======
+2026-03-09 16:04:31,309 [INFO] WDM – Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\143.0.7499.71\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 16:04:31,309 [INFO] main – ChromeDriver path: C:\Users\admin\.wdm\drivers\chromedriver\win64\143.0.7499.71\chromedriver-win32/chromedriver.exe
+2026-03-09 16:04:31,865 [INFO] login – [PierreWats26898] Thử load cookie file...
+2026-03-09 16:04:31,865 [INFO] login – [PierreWats26898] Thử inject cookie chuỗi...
+2026-03-09 16:04:45,115 [INFO] session – Đã inject JS Cookie, đang reload /home...
+2026-03-09 16:04:51,714 [INFO] session – URL sau khi inject: https://x.com/home | Title: Home / X
+2026-03-09 16:04:51,718 [INFO] session – is_logged_in checking URL: https://x.com/home
+2026-03-09 16:05:02,308 [WARNING] session – is_logged_in không tìm thấy Feed Navigation: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1031213
+	0x1031254
+	0xe1e6dd
+	0xe693a5
+	0xe6977b
+	0xeb0382
+	0xe8b534
+	0xeadb13
+	0xe8b2e6
+	0xe5d321
+	0xe5e1d4
+	0x1285254
+	0x128080b
+	0x129d0ea
+	0x104b118
+	0x105311d
+	0x1039518
+	0x10396d9
+	0x1023a68
+	0x771c7ba9
+	0x7766c3ab
+	0x7766c32f
+
+2026-03-09 16:05:02,308 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: die_cookie
+2026-03-09 16:05:02,308 [ERROR] login – [PierreWats26898] Đăng nhập thất bại: Cookie đã chết hoặc không hợp lệ
+2026-03-09 16:05:02,308 [ERROR] main – [PierreWats26898] LỖI: Login thất bại - dừng tài khoản
+2026-03-09 16:05:02,311 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: Login thất bại - dừng tài khoản
+2026-03-09 16:05:02,311 [WARNING] main – [PierreWats26898] Account báo lỗi, ngừng vòng lặp!
+2026-03-09 16:05:05,431 [INFO] main – [PierreWats26898] Đã đóng profile PierreWats26898
+2026-03-09 16:05:05,431 [INFO] main – ============================================================
+2026-03-09 16:05:05,431 [INFO] main –   HOÀN TẤT
+2026-03-09 16:05:05,431 [INFO] main – ============================================================
+2026-03-09 16:06:34,521 [INFO] main – ============================================================
+2026-03-09 16:06:34,521 [INFO] main –   TWITTER 43MAX TOOL – KHỞI ĐỘNG
+2026-03-09 16:06:34,521 [INFO] main – ============================================================
+2026-03-09 16:06:35,028 [INFO] genlogin_api – GenLogin login OK
+2026-03-09 16:06:35,350 [INFO] genlogin_api – Group 'twitter' id=103334
+2026-03-09 16:06:38,660 [INFO] main – Tổng số profile: 1352
+2026-03-09 16:06:38,660 [INFO] main – Tổng số account hợp lệ: 1
+2026-03-09 16:06:38,660 [INFO] main – Chạy 1 account với 5 luồng đồng thời
+2026-03-09 16:06:38,661 [INFO] main – [PierreWats26898] Bắt đầu – Profile: PierreWats26898 - Lần lặp 1/5
+2026-03-09 16:06:40,810 [INFO] main – [PierreWats26898] Profile PierreWats26898 – port 60866
+2026-03-09 16:06:45,810 [INFO] WDM – ====== WebDriver manager ======
+2026-03-09 16:06:48,198 [INFO] WDM – Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\143.0.7499.71\chromedriver-win32/chromedriver.exe] found in cache
+2026-03-09 16:06:48,198 [INFO] main – ChromeDriver path: C:\Users\admin\.wdm\drivers\chromedriver\win64\143.0.7499.71\chromedriver-win32/chromedriver.exe
+2026-03-09 16:06:48,741 [INFO] login – [PierreWats26898] Thử load cookie file...
+2026-03-09 16:06:48,741 [INFO] login – [PierreWats26898] Thử inject cookie chuỗi...
+2026-03-09 16:06:56,167 [INFO] session – Đã nạp 12 cookie qua Selenium add_cookie.
+2026-03-09 16:07:07,359 [INFO] session – URL sau khi inject: https://x.com/home | Title: Home / X
+2026-03-09 16:07:07,363 [INFO] session – is_logged_in checking URL: https://x.com/home
+2026-03-09 16:07:17,968 [WARNING] session – is_logged_in không tìm thấy Feed Navigation: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1031213
+	0x1031254
+	0xe1e6dd
+	0xe693a5
+	0xe6977b
+	0xeb0382
+	0xe8b534
+	0xeadb13
+	0xe8b2e6
+	0xe5d321
+	0xe5e1d4
+	0x1285254
+	0x128080b
+	0x129d0ea
+	0x104b118
+	0x105311d
+	0x1039518
+	0x10396d9
+	0x1023a68
+	0x771c7ba9
+	0x7766c3ab
+	0x7766c32f
+
+2026-03-09 16:07:17,968 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: die_cookie
+2026-03-09 16:07:17,968 [ERROR] login – [PierreWats26898] Đăng nhập thất bại: Cookie đã chết hoặc không hợp lệ
+2026-03-09 16:07:17,969 [ERROR] main – [PierreWats26898] LỖI: Login thất bại - dừng tài khoản
+2026-03-09 16:07:17,970 [WARNING] account_status – [PierreWats26898] → Đánh dấu ERROR: Login thất bại - dừng tài khoản
+2026-03-09 16:07:17,971 [WARNING] main – [PierreWats26898] Account báo lỗi, ngừng vòng lặp!
+2026-03-09 16:07:21,043 [INFO] main – [PierreWats26898] Đã đóng profile PierreWats26898
+2026-03-09 16:07:21,043 [INFO] main – ============================================================
+2026-03-09 16:07:21,043 [INFO] main –   HOÀN TẤT
+2026-03-09 16:07:21,043 [INFO] main – ============================================================
